@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ritikasharma-portfoliowebsite.netlify.app/](https://ritikasharma-portfoliowebsite.netlify.app/)
 
-- 💬 Ask me about **C++,DSA,HTML,CSS,Sql,JAvascript,React JS,Node JS,Bootstrap**
+- 💬 Ask me about **C++,DSA,HTML,CSS,Sql,Javascript,React JS,Node JS,Bootstrap**
 
 - 📫 How to reach me **ritikasharma20032003@gmail.com**
 
